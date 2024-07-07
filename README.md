@@ -12,7 +12,9 @@ SleuthSpongeFOAM is a tool designed to automate counter-techniques for obfuscati
 
 As digital forensics evolves, there is a need for more advanced methods to address sophisticated obfuscation techniques. SleuthSpongeFOAM addresses this need by implementing Forensic Obfuscation Model (FOM) counter-techniques <https://github.com/blue101010/FOM>.
 
-The tool automates the process of identifying and bypassing steganography and other obfuscation methods in digital images. By systematically testing and penetrating layers of obfuscation, SleuthSpongeFOAM enhances forensic capabilities, ensuring comprehensive analysis and thorough investigation.
+The tool automates for example the process of identifying and bypassing steganography and other obfuscation methods in digital images.
+
+By systematically testing and penetrating layers of obfuscation, SleuthSpongeFOAM enhances forensic capabilities, ensuring comprehensive analysis and thorough investigation.
 
 SleuthSpongeFOAM provides a reliable and efficient solution for digital forensic professionals seeking to improve their investigative processes and uncover concealed evidence.
 
