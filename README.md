@@ -18,7 +18,7 @@ SleuthSpongeFOAM provides a reliable and efficient solution for digital forensic
 
 ## Sleuth Sponge FOAM
 
-The Sleuth Sponge is a Forensic Obfuscation Automatic Model, based on the Forensic Obfuscation Model [FOM](https://github.com/blue101010/FOM).
+The Sleuth Sponge is a Forensic Obfuscation Automatic Model, based on the **Forensic Obfuscation Model** [FOM](https://github.com/blue101010/FOM).
 
 Introducing Mr. Sponge, the animated force behind SleuthSpongeFOAM, a Forensic Obfuscation Automatic Model based on the Forensic Obfuscation Model (FOM). Equipped with advanced forensic counter-techniques, Mr. Sponge is designed to uncover and clean up hidden data, making the invisible visible.
 
