@@ -1,6 +1,6 @@
 # SleuthSpongeFOAM
 
-SleuthSpongeFOAM is a tool designed to automate counter-techniques for obfuscations and forensic analysis, like the techniques in Forensic Obfuscation Model (FOM) tool.
+**SleuthSpongeFOAM** is a tool designed to automate counter-techniques for obfuscations and forensic analysis, like the techniques in Forensic Obfuscation Model (FOM) tool.
 It is designed to automate counter-techniques for obfuscations and forensic analysis.
 
 <p align="center">
